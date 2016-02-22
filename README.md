@@ -1,4 +1,11 @@
-# hello-world
-CS112
+Hello - World Code
 
-Hello, I'm Adrian and I want to learn to code java :)
+
+
+public class HelloSAC {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Santa Ana!");
+	}
+
+}
